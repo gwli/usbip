@@ -30,3 +30,7 @@
 https://github.com/solarkennedy/wiki.xkyle.com/wiki/USB-over-IP-On-Ubuntu
 
 https://github.com/torvalds/linux/tree/master/tools/usb/usbip
+
+how to debug:
+search how to debug usbip
+https://sourceforge.net/p/usbip/discussion/418507/thread/eecf8f72/?limit=25
